@@ -1,6 +1,6 @@
 ---
 theme: the-unnamed
-background: /assets/Dante_Domenico_di_Michelino.jpg
+background: /images/Dante_Domenico_di_Michelino.jpg
 class: 'text-center'
 highlighter: shiki
 info: |
@@ -95,7 +95,7 @@ layout: center
 
 ---
 layout: section
-background: /assets/Dante_Domenico_di_Michelino.jpg
+background: /images/Dante_Domenico_di_Michelino.jpg
 ---
 # Divine comedy
 Dante Alighieri
@@ -108,7 +108,7 @@ Dante Alighieri
 
 ---
 layout: image
-image: /assets/9_circles.jpg
+image: /images/9_circles.jpg
 ---
 <!-- 
 - the picture you are looking at is Botticelli’s depiction of 9 circles of hell
@@ -117,14 +117,14 @@ image: /assets/9_circles.jpg
 
 ---
 layout: image
-image: /assets/9_circles_flipped.jpg
+image: /images/9_circles_flipped.jpg
 ---
 
 ---
 layout: default
 ---
 # Testing pyramid
-<img src="/assets/pyramid.png" class="h-70 m-auto mt-10" />
+<img src="/images/pyramid.png" class="h-70 m-auto mt-10" />
 <!-- 
 - good old testing pyramid
 - focusing today on the top triangle - e2e tests
@@ -148,7 +148,7 @@ layout: default
 
 ---
 layout: image-right
-image: /assets/code_coverage.png
+image: /images/code_coverage.png
 ---
 # Efficiency
 ```js
