@@ -4,12 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "slidev build"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@slidev/cli": "^0.48.3"
+    "@slidev/cli": "^0.48.3",
+    "slidev-theme-the-unnamed": "^0.0.16"
   }
 }
