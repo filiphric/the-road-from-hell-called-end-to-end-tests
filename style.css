@@ -1,3 +1,8 @@
 h1 {
   font-weight: 600
 }
+
+.two-columns {
+  gap: 1rem;
+  grid-template-columns: 5fr 3fr !important;
+}
